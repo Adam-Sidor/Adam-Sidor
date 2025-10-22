@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I'm CS student<br>🚀 I'm transforming caffeine into code<br>🔭 I’m currently working on Arduino Projects<br>🌱 I’m currently learning SWIFT<br>📫 Reach me at: sidoadsi1@gmail.com
+🧠 I'm CS student<br>🚀 I'm transforming caffeine into code<br>🔭 I’m currently working on Full Stack projects<br>🌱 I’m currently learning SWIFT<br>📫 Reach me at: sidoadsi1@gmail.com
 
 
 # 💻 Tech Stack:
